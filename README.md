@@ -7,7 +7,8 @@ club opening event
 ## Team
 - **M**
 - **N**
-- 
+- **P**
+- **J**
 **[OPEN]** — suggested split: M owns backend/data model + real-time leaderboard logic (hardest part), N + J split frontend pages, P takes the more contained/isolated pieces (e.g. static challenge pages, styling) with support from the others.
 
 ---
