@@ -5,11 +5,9 @@ club opening event
 > Draft for team review. Anything marked **[OPEN]** is an assumption/placeholder — edit directly in the repo.
 
 ## Team
-- **M** — coding lead
-- **N** — vibe coder, knows their way around
-- **P** — vibe coder, less confident, good for smaller/isolated tasks
-- **J** — vibe coder, confident, knows how to get things done
-
+- **M**
+- **N**
+- 
 **[OPEN]** — suggested split: M owns backend/data model + real-time leaderboard logic (hardest part), N + J split frontend pages, P takes the more contained/isolated pieces (e.g. static challenge pages, styling) with support from the others.
 
 ---
