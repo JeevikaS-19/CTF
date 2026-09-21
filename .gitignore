@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Environment secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db

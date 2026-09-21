@@ -1,0 +1,39 @@
+# CODEOWNERS
+# Fill in GitHub usernames when the team is assigned.
+# Format: <path-pattern> <@github-username-or-team>
+
+# Scaffold / template — changes need scaffold-owner review
+/src/routes.tsx                     @TBD-scaffold
+/src/layouts/                       @TBD-scaffold
+/src/guards/                        @TBD-scaffold
+/src/components/Placeholder.tsx     @TBD-scaffold
+/src/shared/types.ts                @TBD-scaffold
+/src/shared/constants.ts            @TBD-scaffold
+/package.json                       @TBD-scaffold
+/vite.config.ts                     @TBD-scaffold
+/tsconfig*.json                     @TBD-scaffold
+/.eslintrc.cjs                      @TBD-scaffold
+/.prettierrc                        @TBD-scaffold
+
+# UI design
+/src/components/ui/                 @TBD-frontend-ui
+/src/theme/                         @TBD-frontend-ui
+
+# Backend + Supabase
+/supabase/                          @TBD-backend
+/src/lib/supabase.ts                @TBD-backend
+/src/shared/api/                    @TBD-backend
+
+# Round 1 (Pair A)
+/src/pages/rounds/round1/           @TBD-pair-a
+/src/content/round1.questions.ts    @TBD-pair-a
+
+# Round 2 (Pair B)
+/src/pages/rounds/round2/           @TBD-pair-b
+/src/content/round2.questions.ts    @TBD-pair-b
+
+# Admin/organizer (Pair C)
+/src/pages/admin/                   @TBD-pair-c
+
+# Filler games
+/src/pages/games/                   @TBD-games
